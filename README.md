@@ -10,10 +10,10 @@ To train the model, a large dataset containing images of various concrete surfac
 [Dataset Download Link](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)
 ## Results
 <p align="center">
-  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553336550" width="45%">
-  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553340959" width="45%">
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/assets/83179192/7a6a5d7d-543f-4d75-828a-831d4f81ef83" width="45%">
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/assets/83179192/c3cd3769-ba6e-41fb-8f04-ba2d0d1daf76" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553341367" width="45%">
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/assets/83179192/643193f9-5118-43ac-8815-0ddafa3f2441" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp; 
   <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/assets/83179192/9503163d-eff4-47a5-92d5-023b1c215fa1" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp; 
