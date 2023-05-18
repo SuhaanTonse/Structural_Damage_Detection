@@ -8,7 +8,17 @@ Prominent signs of wear and tear, such as cracks and openings on building wall i
 To train the model, a large dataset containing images of various concrete surfaces from Kaggle is used. The dataset contains two types of images. The positive class represents images of cracked wall surfaces, while the negative class represents images of cracked wall surfaces. Each class has a total of 20000 images.
 
 [Dataset Download Link](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)
-## Screenshots
+## Results
+<p align="center">
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553336550" width="45%">
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553340959" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553341367" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img alt="" src="https://github.com/SuhaanTonse/Structural_Damage_Detection/issues/1#issuecomment-1553343010" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp; 
 
-![App Screenshot]()
+</p>
+
+
 
